@@ -30,7 +30,7 @@
           org: "2f6a5670trial"
           space: "dev"
           credentialsId: "cfdeploy"
-          appName: ""
+          appName: ""        
         mtaDeployParameters: "-f --version-rule ALL"
       artifactPrepareVersion:
         versioningType: "cloud_noTag"
